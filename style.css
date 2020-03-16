@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(181, 255, 224);
+    font-family:"Candara"
+}
+
+#middle{
+    background-color:rgb(230, 230, 230);
+    width:1000px;
+    margin:0 auto;
+}
+h1 {
+  padding-top: 20px;
+  padding-right: 20px;
+}
+
+.content{
+    background-color: rgb(181, 255, 224);
+    width: 1000px;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    margin: auto;
+}
+#links{
+  border:solid;
+
+}
+}
+.header {
+    font-family:"Candara"
+  }
+  #pages{
+    width:994px;
+    height:75px;
+    text-align:center;
+    color:white;
+
+    background-color:rgb(114, 156, 138);
+}
+
+}
+a:link {
+    color:white;
+}
+a:visited {
+    color:black;
+}
+td:hover{
+    background-color:gray;
+}
+
+#portraitpic{
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top:50px
+}
+
+#top{
+  text-align: center
+}
+#me {
+  text-align:center
+}
+#learned{
+  text-align:center
+}
+#learn{
+  text-align:center
+}
+#about{
+  text-align:center
+}
